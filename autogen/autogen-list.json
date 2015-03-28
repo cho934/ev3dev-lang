@@ -1,10 +1,16 @@
 {
+    "cpp": [
+        "cpp/ev3dev.h"
+    ],
+    "python": [
+        "python/pyev3dev.cpp"
+    ],
     "js": [
         "js/extras.ts",
         "js/motor.ts",
         "js/sensor.ts"
     ],
-    "docs": [ 
+    "docs": [
         "wrapper-specification.md"
     ]
 }
